@@ -1,51 +1,42 @@
 
-# Hi, I'm Khaled Abdul Rahman 👋
+# Khaled Abdul Rahman
 
-### General Software Engineer
-**Focused on Web Development & Backend Engineering**
+**General Software Engineer | Web & Backend Development**
 
-I'm a Computer Systems Engineering student interested in building practical software solutions, writing clean code, and solving real-world problems.
+I'm a Computer Systems Engineering student with a strong interest in software development and the way things work behind the scenes.
 
-I enjoy working across different areas of software development, with a particular interest in backend systems and web applications.
+Most of my hands-on experience has been around building web applications, working with backend logic, and designing databases. I also enjoy exploring different programming languages and understanding the engineering concepts behind them.
 
----
-
-## Technical Skills
-
-**Programming Languages**
-- Java
-- C#
-- C++
-- PHP
-- JavaScript
-- TypeScript
-
-**Web Development**
-- HTML
-- CSS
-- Laravel
-
-**Databases**
-- MySQL
+I prefer building things, experimenting with ideas, and learning through actual projects.
 
 ---
 
-## Areas of Interest
+### What I work with
 
-- Software Engineering
-- Backend Development
-- Web Application Development
-- Object-Oriented Programming
-- Database Design
+| Area | Technologies |
+|---|---|
+| Languages | Java, C#, C++, PHP, JavaScript, TypeScript |
+| Backend | Laravel, PHP |
+| Frontend | HTML, CSS, JavaScript |
+| Databases | MySQL |
+| Tools | Git, GitHub, VS Code |
+
+### What interests me
+
+- Designing and building backend systems.
+- Developing practical web applications.
+- Object-oriented programming and software design.
+- Database structure and application architecture.
+- Exploring different technologies and their real-world use.
 
 ---
 
-## A Little More About Me
+### Beyond the code
 
-- 🎓 Computer Systems Engineering Student
-- 💻 Interested in building reliable and maintainable software
-- 🚀 Always exploring new technologies and improving my engineering skills
+I believe good software comes from understanding the problem before choosing the tools.
+
+I'm currently focused on strengthening my software engineering foundations and building projects that reflect how I approach real development challenges.
 
 ---
 
-*Building, learning, and improving — one project at a time.*
+*Thanks for stopping by.*
