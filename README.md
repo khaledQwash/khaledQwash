@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**khaledQwash/khaledQwash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Khaled Abdul Rahman 👋
 
-Here are some ideas to get you started:
+### General Software Engineer
+**Focused on Web Development & Backend Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Systems Engineering student interested in building practical software solutions, writing clean code, and solving real-world problems.
+
+I enjoy working across different areas of software development, with a particular interest in backend systems and web applications.
+
+---
+
+## Technical Skills
+
+**Programming Languages**
+- Java
+- C#
+- C++
+- PHP
+- JavaScript
+- TypeScript
+
+**Web Development**
+- HTML
+- CSS
+- Laravel
+
+**Databases**
+- MySQL
+
+---
+
+## Areas of Interest
+
+- Software Engineering
+- Backend Development
+- Web Application Development
+- Object-Oriented Programming
+- Database Design
+
+---
+
+## A Little More About Me
+
+- 🎓 Computer Systems Engineering Student
+- 💻 Interested in building reliable and maintainable software
+- 🚀 Always exploring new technologies and improving my engineering skills
+
+---
+
+*Building, learning, and improving — one project at a time.*
